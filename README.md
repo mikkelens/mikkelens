@@ -1,6 +1,6 @@
 ### hi
 
-<div style="overflow: hidden; position: relative; width: 100%">
+<div width: 100%">
   <div align="left" style="width: 50%">
     <p>I'm a CS student at AU's Institute of Computer Science, with a bit of previous experience.</p>
     <p>I can program C#, Rust, Python, HLSL/ShaderLab and JS (in order of confidence).</p>
