@@ -2,7 +2,7 @@
 
 <p>I'm a CS student at AU's Institute of Computer Science, with a bit of previous experience.
 I can program C#, Rust, Python and JS (in order of confidence).</p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl" <!--alt="Mikkelens"--> />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
 
 <p>Along with languages I have some experience in Unity Engine, shader development, game design, Git/SCMs and shell scripting (mostly PowerShell).</p>
 
