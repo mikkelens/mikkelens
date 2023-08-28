@@ -1,11 +1,11 @@
 ### hi
 
 <div style="overflow: hidden; position: relative; width: 100%">
-  <div style="float: left; margin-right: 15px; width: 50%">
+  <div style="float: left; width: 50%">
     <p>I'm a CS student at AU's Institute of Computer Science, with a bit of previous experience.</p>
     <p>I can program C#, Rust, Python and JS (in order of confidence).</p>
   </div>
-  <div style="float: left; margin-right: 15px; width: 50%">
+  <div style="float: left; width: 50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
   </div>
   
