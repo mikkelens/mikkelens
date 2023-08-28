@@ -6,9 +6,8 @@
     <p>I can program C#, Rust, Python and JS (in order of confidence).</p>
   </div>
   <div style="float: left; width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&exclude_repo=uni&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
   </div>
-  
 </div>
 
 <p>Along with languages I have some experience in Unity Engine, shader development, game design, Git/SCMs and shell scripting (mostly PowerShell).</p>
