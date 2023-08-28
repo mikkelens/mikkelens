@@ -1,9 +1,9 @@
 ### hi
 
 <div style="overflow: hidden; position: relative">
-  <p style="float: left; margin-right: 15px; width:50%">I'm a CS student at AU's Institute of Computer Science, with a bit of previous experience.
+  <p style="float: left; margin-right: 15px; width: 50%">I'm a CS student at AU's Institute of Computer Science, with a bit of previous experience.
   I can program C#, Rust, Python and JS (in order of confidence).</p>
-  <img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
+  <img style="float: left; width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mikkelens&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
 </div>
 
 <p>Along with languages I have some experience in Unity Engine, shader development, game design, Git/SCMs and shell scripting (mostly PowerShell).</p>
