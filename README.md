@@ -1,7 +1,7 @@
 
 
 <div style="height: auto">
-    <p>I'm currently a Cyber and Computer Engineering student at AAU in Copenhagen, with some previous experience. Last year I was studying Computer Science at AU.</p>
+    <p>I'm currently studying Cyber and Computer Engineering at AAU in Copenhagen, with some previous experience. Last year I was studying Computer Science at AU.</p>
     <p>I can write, in descending order of confidence; Rust, C#, Java, Scala, JavaScript, Python, C, and HLSL/ShaderLab.<p>
     <p>Along with programming languages I have a (relatively, not professionally) high amount of experience with the Unity engine, shader and VFX development, game design, Git/SCMs and shells (mostly PowerShell).</p>
     <p>On my profile you'll find the projects I am able to show publicly.</p>
